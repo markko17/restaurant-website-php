@@ -15,7 +15,6 @@
 <div>
 	<h3>Website presentation</h3>
   	<ul>
-		<li>https://www.youtube.com/watch?v=EufEpP4r230&ab_channel=IdrissJairi</li>
 		<li>Admin Login Page: http://localhost/RestaurantWebsite/admin/</li>
 	</ul>
 	<p>
