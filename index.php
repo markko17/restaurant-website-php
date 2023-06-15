@@ -51,7 +51,7 @@
 				<div class="col-md-6 home-left-section">
 					<div style="padding: 100px 0px; color: white;">
 						<h1>
-							VINCENT PIZZA.
+							MARK PIZZA.
 						</h1>
 						<h2>
 							MAKING PEOPLE HAPPY
@@ -90,8 +90,7 @@
 	                            Quality Foods
 	                        </h3>
 	                        <p>
-	                        	Sit amet, consectetur adipiscing elit quisque eget maximus velit, 
-	                        	non eleifend libero curabitur dapibus mauris sed leo cursus aliquetcras suscipit.
+	                        	Instead of going out to dinner, buy good food. 
 	                        </p>
 	                    </div>
 	                </div>
@@ -104,8 +103,7 @@
 	                            Quality Foods
 	                        </h3>
 	                        <p>
-	                        	Sit amet, consectetur adipiscing elit quisque eget maximus velit, 
-	                        	non eleifend libero curabitur dapibus mauris sed leo cursus aliquetcras suscipit.
+	                        	Nothing is better than going home to family and eating good food and relaxing.
 	                        </p>
 	                    </div>
 	                </div>
@@ -118,8 +116,7 @@
 	                            Quality Foods
 	                        </h3>
 	                        <p>
-	                        	Sit amet, consectetur adipiscing elit quisque eget maximus velit, 
-	                        	non eleifend libero curabitur dapibus mauris sed leo cursus aliquetcras suscipit.
+	                        	Qaulity is never an accident.
 	                        </p>
 	                    </div>
 	                </div>
@@ -450,14 +447,15 @@
                 <div class="col-lg-3 col-md-6">
                      <div class="footer_widget">
                         <h3>Headquarters</h3>
-                        <p>
+                        <p> San Miguel, Iriga City </p>
                             <?php echo $restaurant_address; ?>
                         </p>
-                        <p>
+                        <p> marklagdaan606@gmail.com </p> 
                             <?php echo $restaurant_email; ?>
-                            <br>
+                            <br> 
+						<p> 266 - 1122 </p> 
                             <?php echo $restaurant_phonenumber; ?>   
-                        </p>
+                        </p> 
                      </div>
                 </div>
                 <div class="col-lg-3 col-md-6">

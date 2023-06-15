@@ -424,12 +424,12 @@
                      <div class="footer_widget">
                         <h3>Headquarters</h3>
                         <p>
-                            962 Fifth Avenue, 3rd Floor New York, NY10022
+                            San Miguel, Iriga City, 
                         </p>
                         <p>
-                            contact@restaurant.com
+                            marklagdaan606@gmail.com
                             <br>
-                            (+123) 456 789 101    
+                            (+63) 09630168090   
                         </p>
                      </div>
                 </div>
